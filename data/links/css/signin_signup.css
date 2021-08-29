@@ -1,0 +1,13 @@
+body{background-color: black;color: aqua;}
+#logo{font-family: monospace;color: aqua;font-weight: bolder;font-size: 140%; margin-left: 2%;margin-top: 2%;}
+#logo:hover{font-weight: bolder;color: aquamarine;}
+input{background-color: black; color: aqua;font-weight: bolder;border-style: double;border-color: aqua;}
+input:hover{border-color: aqua;color: darkturquoise;border-style: double;border-top: 0ch;border-left: 0ch;border-right: 0ch;}
+select{
+
+    background-color: black; color: aqua;
+    font-weight: bolder;border-style: double;
+    border-color: aqua;border-width:2;}
+select:hover{border-color: aqua;color: darkturquoise;}
+option{font-weight: bold;color: darkturquoise;}
+#heading{font-size: xx-large; text-align: center;}
